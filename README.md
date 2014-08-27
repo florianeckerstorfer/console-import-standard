@@ -1,14 +1,14 @@
 Console Import Standard Edition
 ===============================
 
-> A boilerplate for console-based data import scripts using [`symfony/console`](https://github.com/symfony/Console) and
-[`ddeboer/data-import`](https://github.com/ddeboer/data-import).
+> A boilerplate for console-based data import scripts using [symfony/console](https://github.com/symfony/Console) and
+[ddeboer/data-import](https://github.com/ddeboer/data-import).
 
 
 Installation
 ------------
 
-You need [Composer]() to create a new data import script:
+You need [Composer](https://getcomposer.org) to create a new data import script:
 
 ```shell
 $ curl -s http://getcomposer.org/installer | php
@@ -21,7 +21,7 @@ $ php composer.phar create-project florianeckerstorfer/console-import-standard-e
 ```
 
 The sample classes provided in this project reside in the `Acme\DemoImport` namespace. However, since this project uses
-[PSR-4](http://www.php-fig.org/psr/psr-4/) they are placed directly in the `src/` directory. Currently only the
+[PSR-4](http://www.php-fig.org/psr/psr-4/) I can place the classes directly in the `src/` directory. Currently only the
 `Command` directory contains a file and you should open it and change the namespace according to your needs. You
  also have to adapt the namespace in `composer.json` in the `autoload.psr-4` option.
 
