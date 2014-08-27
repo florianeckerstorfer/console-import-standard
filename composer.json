@@ -1,0 +1,18 @@
+{
+    "name": "florianeckerstorfer/console-import-standard-edition",
+    "license": "MIT",
+    "type": "project",
+    "description": "A boilerplate for console-based data import scripts",
+    "autoload": {
+        "psr-4": {
+            "Acme\\DemoImport\\": "src/"
+        }
+    },
+    "require": {
+        "ddeboer/data-import": "~0.16",
+        "symfony/console":     "~2.5"
+    },
+    "config": {
+        "bin-dir": "bin"
+    }
+}
