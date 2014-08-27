@@ -60,5 +60,5 @@ Author
 ------
 
 Developed by [Florian Eckerstorfer](https://florian.ec) in Vienna, Europe. I am
-[@Florian_](https://twitter.com/Florian_] on Twitter. I post updates for my open source projects using the
+[@Florian_](https://twitter.com/Florian_) on Twitter. I post updates for my open source projects using the
 Twitter handle [@braincrafted](https://twitter.com/braincrafted).
