@@ -1,8 +1,8 @@
 Console Import Standard Edition
 ===============================
 
-> A boilerplate for console-based data import scripts using `[symfony/console](https://github.com/symfony/Console)` and
-`[ddeboer/data-import](https://github.com/ddeboer/data-import)`.
+> A boilerplate for console-based data import scripts using [`symfony/console`](https://github.com/symfony/Console) and
+[`ddeboer/data-import`](https://github.com/ddeboer/data-import).
 
 
 Installation
